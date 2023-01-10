@@ -13,4 +13,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MaqC&label=Profile%20impressions&pretty=false)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=MaqC&label=Profile%20impressions&pretty=false)](https://visitcount.itsvg.in)
