@@ -11,7 +11,7 @@ Hi am MaqC.<br>Currently working on increasing my coding skills.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaqC254&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-[![Top Langs](https://github-readme-stats-git-maqC254-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)]
+[![Top Langs](https://github-readme-stats-git-maqC254-rickstaa.vercel.app/api/top-langs/?username=maqC254)]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
