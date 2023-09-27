@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning flutter
+🔭 Computer Science student at Dedan Kimathi University of Technology. Looking to improve my coding skills and open to learning
 
 
 # 💻 Tech Stack:
