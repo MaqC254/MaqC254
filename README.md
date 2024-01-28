@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maqc254" alt="maqc254" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [this profile](this profile)
+- 👨‍💻 All of my projects are available in this repository
 
 - 📫 How to reach me **maxwellm751@gmail.com**
 
