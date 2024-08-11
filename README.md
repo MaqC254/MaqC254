@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maqc254&label=Profile%20views&color=0e98b4&style=plastic" alt="maqc254" /> </p>
 
-![WakaTime Badge](https://wakatime.com/badge/user/cbc43b33-0d75-4ddd-9557-a9ad766589d2.svg)
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://wakatime.com/badge/user/cbc43b33-0d75-4ddd-9557-a9ad766589d2.svg)"><img src="[https://github-profile-trophy.vercel.app/?username=maqc254](https://wakatime.com/badge/user/cbc43b33-0d75-4ddd-9557-a9ad766589d2.svg)" alt="wakatime" /></a> </p>
+<p align="left"> <img src="https://wakatime.com/badge/user/cbc43b33-0d75-4ddd-9557-a9ad766589d2.svg" alt="maqc254" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maqc254" alt="maqc254" /></a> </p>
 
