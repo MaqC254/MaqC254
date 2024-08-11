@@ -2,7 +2,8 @@
 <h3 align="center">🔭 Computer Science student at Dedan Kimathi University of Technology. Looking to improve my coding skills and open to learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maqc254&label=Profile%20views&color=0e98b4&style=plastic" alt="maqc254" /> </p>
-<a href="https://wakatime.com/@cbc43b33-0d75-4ddd-9557-a9ad766589d2"><img src="https://wakatime.com/badge/user/cbc43b33-0d75-4ddd-9557-a9ad766589d2.svg" alt="Total time coded since Jul 14 2023" /></a>
+
+[![wakatime](https://wakatime.com/badge/user/cbc43b33-0d75-4ddd-9557-a9ad766589d2.svg)](https://wakatime.com/@cbc43b33-0d75-4ddd-9557-a9ad766589d2)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maqc254" alt="maqc254" /></a> </p>
 
