@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxwell</h1>
-<h3 align="center">🔭 Computer Science student at Dedan Kimathi University of Technology. Looking to improve my coding skills and open to learning</h3>
+<h3 align="center">🔭 Computer Science graduate from Dedan Kimathi University of Technology. Looking to improve my coding skills and open to learning. Currently learning fullstack development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maqc254&label=Profile%20views&color=0e98b4&style=plastic" alt="maqc254" /> </p>
 
