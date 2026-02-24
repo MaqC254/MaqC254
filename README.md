@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxwell Mwangi</h1>
-<h3 align="center">A Computer Science graduate passionate about problem solving</h3>
+<h3 align="center">A Computer Science graduate passionate about providing web solutions through scalable web app development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maqc254&label=Profile%20views&color=0e75b6&style=flat" alt="maqc254" /> </p>
 
